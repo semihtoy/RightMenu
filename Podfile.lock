@@ -1,0 +1,16 @@
+PODS:
+  - DSCircularCollectionView (1.0.3)
+
+DEPENDENCIES:
+  - DSCircularCollectionView
+
+SPEC REPOS:
+  trunk:
+    - DSCircularCollectionView
+
+SPEC CHECKSUMS:
+  DSCircularCollectionView: a25c185d1e57ad588e3b50c844c9741302e360d3
+
+PODFILE CHECKSUM: a11f57827eb5f0e3cc1c9238dfd1ec604ef2be23
+
+COCOAPODS: 1.8.4
